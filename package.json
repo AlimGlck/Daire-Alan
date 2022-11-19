@@ -1,0 +1,8 @@
+{
+  "name": "DaireAlan",
+  "version": "1.0.0",
+  "description": "Dairenin Alanı",
+  "main": "index.js",
+  "author": "Alim Gölcük",
+  "license": "MIT"
+}
